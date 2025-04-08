@@ -16,4 +16,4 @@ Revisão prática de HTML, CSS e JS
 
 - ## 🚀 Como executar o projeto
 
-1. Clone o repositório: https://github.com/viniciusalmeidaalves/imersao-front-end-page-spotify/tree/main
+1. Clone o repositório: https://github.com/viniciusalmeidaalves/imersao-front-end-page-spotify
