@@ -1,6 +1,7 @@
 # Imersão Front-End Page Spotify - Alura
 
-Desenvolvimento da página do Spotify  
+Desenvolvimento da página do Spotify
+
 Revisão prática de HTML, CSS e JS
 
 ## 🖼 Prévia do Projeto
